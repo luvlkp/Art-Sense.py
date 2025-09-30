@@ -8,7 +8,8 @@ ArtSense is an interactive web application that allows users to upload images of
 ## Table of Contents
 
 - [Features](#features)  
-- [Technologies](#technologies)  
+- [Technologies](#technologies)
+- [My Contributions](#myContributions)
 - [Installation](#installation)  
 
 
@@ -33,6 +34,17 @@ ArtSense is an interactive web application that allows users to upload images of
 - **Backend:** Python with Flask (or FastAPI)  
 - **AI Analysis:** Google Gemini AI (`gemini-2.5-flash`)  
 - **Libraries:** `requests`, `Pillow (PIL)`  
+
+---
+
+## My Contributions
+
+- I focused on the **frontend development and UI/UX design** of the application.  
+  - Designed and implemented interactive layouts using **HTML and CSS**.  
+  - Enhanced the user experience by adding **responsive design and animations**.  
+  - Collaborated with my frontend partner to build an intuitive and accessible interface.  
+  - Gained hands-on experience with **Visual Studio Code**, strengthening my frontend development workflow.  
+
 
 ---
 
